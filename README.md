@@ -55,6 +55,7 @@ if __name__ == "__main__":
     download_file(host, port, 'example.txt')
     print("File downloaded successfully.")
 ```
+
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/f2e73661-760c-4285-91a6-4b8a4c70b3ec)
 ## Result
